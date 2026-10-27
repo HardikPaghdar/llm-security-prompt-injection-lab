@@ -21,3 +21,10 @@ This is a teaching/regression scaffold, not a complete prompt-injection defense.
 
 ## Stack
 Python, FastAPI, Pydantic, pytest. No paid APIs required.
+
+## Explore more
+
+- [MCP AI Developer Assistant](https://github.com/HardikPaghdar/mcp-ai-developer-assistant) — read-only repository tools.
+- [MCP Server Developer Toolkit](https://github.com/HardikPaghdar/mcp-server-developer-toolkit) — permission-aware tool design.
+- [AI Agent Evaluation Platform](https://github.com/HardikPaghdar/ai-agent-evaluation-platform) — agent run metrics and errors.
+- [More projects on my portfolio](https://hardikpaghdar.netlify.app/).
